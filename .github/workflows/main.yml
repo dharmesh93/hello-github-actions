@@ -1,6 +1,6 @@
-name: A workflow for my Hello World file
+name: A workflow for my Hello World file New
 on: push
-name: A workflow for my Hello World file
+name: A workflow for my Hello World file New
 on: push
 jobs:
   build:
